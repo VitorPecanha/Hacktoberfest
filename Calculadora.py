@@ -10,3 +10,5 @@ elif op == "*":
     print(x1 * x2)
 elif op == "/":
     print(x1 / x2)
+else:
+    print("Operador inválido!")
