@@ -1,3 +1,3 @@
 # Hacktoberfest
 
-Repositorio para o hacktoberfest
+Repositorio para participar do hacktoberfest
